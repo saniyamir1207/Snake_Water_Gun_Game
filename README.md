@@ -2,7 +2,6 @@
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
 ![Status](https://img.shields.io/badge/status-Complete-green.svg)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 ## 📖 Overview
 
