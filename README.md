@@ -49,24 +49,24 @@ You need a C compiler (like GCC) installed.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/snake-water-gun.git](https://github.com/your-username/snake-water-gun.git)
-    cd snake-water-gun
+    git clone [https://github.com/saniyamir1207/Snake_Water_Gun_Game.git](https://github.com/saniyamir1207/Snake_Water_Gun_Game.git)
+    cd snake_water_gun_game 
     ```
 
 2.  **Compile the Code**
     Open your terminal/command prompt and run:
     ```bash
-    gcc project_2_.c -o game
+    gcc snake_water_gun_game.c -o snake_water_gun_game
     ```
 
 3.  **Run the Game**
     * **Windows:**
         ```bash
-        .\game.exe
+        .\snake_water_gun_game.exe
         ```
     * **Linux/Mac:**
         ```bash
-        ./game
+        ./snake_water_gun_game
         ```
 
 **Created by Saniya Mir**
